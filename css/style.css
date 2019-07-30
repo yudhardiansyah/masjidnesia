@@ -275,6 +275,9 @@ body {
     top: 25%;
     left: 25%;
   }
+  #hadist {
+    height: 430px;
+  }
 }
 @media (min-width: 992px) {
   .navbar-expand-lg .navbar-nav .nav-style {
